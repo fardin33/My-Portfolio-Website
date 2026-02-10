@@ -1,0 +1,22 @@
+
+/* Responsive Rules */
+
+/* Web First Design */
+
+
+
+/* Small Mobile Device */
+@media screen and (max-width:576px) {}
+
+/* Large Mobile Device */
+@media screen and (max-width:768px) {}
+
+/* Tablet Device */
+@media screen and (max-width:992px) {}
+
+/* Laptop Device */
+@media screen and (max-width:1200px) {}
+
+
+/* Device Specific Media Query */
+@media screen and (min-width:576px) and (max-width:992px) {}
